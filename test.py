@@ -1,2 +1,0 @@
-text = "The simplest AI applications can be divided into two types: classifiers (e.g., \"If shiny then diamond\") on one hand, and controllers (e.g., \"If diamond then pick up\") on the other." 1 
-tokens = nltk.word_tokenize(text)
